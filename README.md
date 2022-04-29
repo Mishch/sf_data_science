@@ -1,8 +1,6 @@
 # Проект 2. Анализ резюме на hh.ru
 
-skillfactory_rds
-
-Python 3.9.7
+Python 3.10.2
 
 ## Оглавление
 
